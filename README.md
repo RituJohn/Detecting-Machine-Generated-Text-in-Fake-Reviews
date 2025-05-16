@@ -1,3 +1,3 @@
 # Comparative Analysis of Machine Learning Techniques for Detecting Machine-Generated Text in Fake Reviews-Text-in-Fake-Reviews
 As e-commerce platforms grow, online reviews are crucial for building and maintaining a positive reputation and influencing consumer decisions. Positive reviews attract more customers, driving significant sales increases. However, the practice of writing fake or misleading reviews to enhance online reputation has become common, making the detection of fraudulent reviews a critical area of research. Identifying fake reviews involves analyzing both the content of the reviews and the behavior of the reviewers. This research presents a machine learning approach to detecting fake reviews.
-![Project Banner](https://github.com/YourUsername/your-repo/blob/main/images/banner.png?raw=true)
+
